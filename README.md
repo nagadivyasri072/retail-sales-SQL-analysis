@@ -44,9 +44,9 @@ An interactive Power BI dashboard was created from the SQL Server database.
 
 ### Dashboard Preview
 
-![Sales Overview](sales-overview.png)
+![Sales Overview](./sales-overview.png)
 
-![Product and Customer Analysis](product-customer-analysis.png)
+![Product and Customer Analysis](./product-customer-analysis.png)
 
 ### Download Dashboard Files
 
