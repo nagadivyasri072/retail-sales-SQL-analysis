@@ -29,3 +29,26 @@ RetailSalesDB
 
 ```text
 Customers → Orders → OrderItems ← Products
+
+
+
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created from the SQL Server database.
+
+### Dashboard Pages
+
+- Sales Overview
+- Product and Customer Analysis
+
+### Dashboard Preview
+
+![Sales Overview](sales-overview.png)
+
+![Product and Customer Analysis](product-customer-analysis.png)
+
+### Download Dashboard Files
+
+- [Power BI Dashboard File](Retail_Sales_Dashboard.pbix)
+- [Power BI Dashboard PDF](Retail_Sales_Dashboard.pdf)
