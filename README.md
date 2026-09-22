@@ -50,5 +50,5 @@ An interactive Power BI dashboard was created from the SQL Server database.
 
 ### Download Dashboard Files
 
-- [Power BI Dashboard File](Retail_Sales_Dashboard.pbix)
-- [Power BI Dashboard PDF](Retail_Sales_Dashboard.pdf)
+- [Power BI Dashboard File](./Retail_Sales_Dashboard.pbix)
+- [Power BI Dashboard PDF](./Retail_Sales_Dashboard.pdf)
